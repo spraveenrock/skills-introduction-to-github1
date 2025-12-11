@@ -10,6 +10,7 @@
 # Introduction to GitHub
 I am learning GitHub!
 This is my first GitHub Skills commit!
+new
 
 _Get started using GitHub in less than an hour._
 
