@@ -8,10 +8,9 @@
 -->
 
 # Introduction to GitHub
-I am learning GitHub!
 This is my first GitHub Skills commit!
 new
-
+Trigger welcome step.
 _Get started using GitHub in less than an hour._
 
 </header>
